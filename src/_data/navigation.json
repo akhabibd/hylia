@@ -10,6 +10,10 @@
       "url": "/blog/"
     },
     {
+      "text": "Project",
+      "url": "/projects"
+    },
+    {
       "text": "GitHub",
       "url": "https://github.com/akhabibd",
       "external": true
@@ -18,10 +22,6 @@
       "text": "Twitter",
       "url": "https://twitter.com/khabibdee",
       "external": true
-    },
-    {
-      "text": "Project",
-      "url": "/projects"
     }
   ]
 }
