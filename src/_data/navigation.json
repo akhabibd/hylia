@@ -6,14 +6,22 @@
       "external": false
     },
     {
+      "text": "Blog",
+      "url": "/blog/"
+    },
+    {
       "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
+      "url": "https://github.com/akhabibd",
       "external": true
     },
     {
-      "text": "Example Contact Page",
-      "url": "/contact",
-      "external": false
+      "text": "Twitter",
+      "url": "https://twitter.com/khabibdee",
+      "external": true
+    },
+    {
+      "text": "Project",
+      "url": "/projects"
     }
   ]
 }
