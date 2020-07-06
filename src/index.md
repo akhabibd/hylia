@@ -1,12 +1,12 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Hi there! I'm Khabib.
+metaTitle: ""
+metaDesc: ""
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+socialImage: ""
 ---
+This is a good intro, to be honest, (not really). I'm currently a Juniors majoring in Islamic economics at Universitas Airlangga. I was a CS and Q-Programing enthusiast up until now. I spend my free time doing these things and felt like I have no friends other than my high school mate.
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+A sensible way while not in front of my laptop is probably sketching, reading, taking notes, playing Dota 2 (currently not) or trying to familiarize myself with friends (nongkrong). **My main interest is harnessing my ability and data for societal impact**. I'd be happy to learn more about these so feel free to reach me out at [Twitter](https://twitter.com/khabibdee), [LinkedIn](https://www.linkedin.com/in/ahmad-khabib-dwi-anggara-5945a8192/), or email.
