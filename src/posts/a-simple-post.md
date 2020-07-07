@@ -1,28 +1,9 @@
 ---
-title: A simple post
-date: '2019-06-18'
+title: My Motivation
+date: 2020-07-07T06:54:18.409Z
 tags:
-  - demo-content
-  - simple-post
   - blog
 ---
-A simple post to demonstrate how a normal blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.
+#### **Just found this on youtube video**
 
-How about a `<blockquote>`?
-
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
-
-A list of stuff:
-
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
-
-How about an ordered list of stuff:
-
-1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
-
-
-Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+> You cannot let a fear of failure or a fear of comparison or a fear of judgment stop you from doing what's makes you great. You cannot succeed without the risk of failure.You cannot have a voice without the risk of criticism. And you cannot love without the risk of loss. You must go out and take these risks, and people will tell you to do what makes you happy. But a lot of this has been hard work. and I am not always happy, and I don't think you should do what makes you happy, I think you should do what makes you great. do what's uncomfortable, and scary, and hard but pays off in the long run. be willing to fail, let yourself fail, fail in the way in the place where you would want to fail. fail, pick yourself up, and fail again. but without this struggle what is your success anyway?
