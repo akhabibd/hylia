@@ -8,10 +8,12 @@
     {
       "text": "Blog",
       "url": "/blog/"
+      "external": false
     },
     {
       "text": "Project",
       "url": "/projects"
+      "external": false
     },
     {
       "text": "GitHub",
