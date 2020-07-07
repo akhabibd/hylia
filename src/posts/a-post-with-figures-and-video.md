@@ -1,6 +1,6 @@
 ---
 title: "How to make post ? well not really "
-date: 2019-06-18
+date: 2020-07-07T07:07:46.792Z
 tags:
   - demo-content
   - blog
