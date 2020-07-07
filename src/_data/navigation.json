@@ -7,12 +7,12 @@
     },
     {
       "text": "Blog",
-      "url": "/blog/"
+      "url": "/blog/",
       "external": false
     },
     {
       "text": "Project",
-      "url": "/projects"
+      "url": "/projects",
       "external": false
     },
     {
