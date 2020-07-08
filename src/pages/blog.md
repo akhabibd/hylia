@@ -1,6 +1,6 @@
 ---
-layout: layouts/page.njk
+layout: layouts/archive.njk
 title: Blog
-permalink: /blog
+permalink: /blog/index.html
 ---
 ## **All Post**
